@@ -64,6 +64,6 @@ I am deeply interested in the startup ecosystem of Kerala and believe in the mot
 
 
 >  
->> check out [JerrinMathewGeorge.md]([./profile/vishakhabhayan@mulearn.md](https://github.com/jerrinmg/IEEE-LAUNCHPAD/blob/main/JerrinMathewGeorge.md) 
+>> check out [JerrinMathewGeorge.md]([./profile/vishakhabhayan@mulearn.md](https://github.com/jerrinmg/IEEE-LAUNCHPAD/blob/main/JerrinMathewGeorge.md](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/blob/main/profiles/jerrinmathewgeorge-1%40mulearn.md) 
 
 ---
